@@ -1,0 +1,4 @@
+---
+applications:
+ - name: AlligatorLytics
+   memory: 128M
