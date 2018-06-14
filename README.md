@@ -19,3 +19,17 @@ extension=php_sqlite.dll
 ## Platforms
 1. [Netbeans IDE](https://netbeans.org/ "Netbeans IDE")
 2. [IBM Cloud](https://console.bluemix.net/ "IBM Cloud")
+
+## Screen Shots
+
+<img src="AlligatorLytics/screen1.PNG" width="200" height="400"/>
+
+<img src="AlligatorLytics/screen2.PNG" width="200" height="400"/>
+
+<img src="AlligatorLytics/screen3.PNG" width="200" height="400"/>
+
+
+## Test link
+You can make an api call to the php hosted on IBM cloud. Sqlite.db was used for ease of deployment 
+on the bluemix platform. 
+[AlligatorLytics Api calls](https://alligatorlytics.eu-gb.mybluemix.net/ "AlligatorLytics Api calls")
